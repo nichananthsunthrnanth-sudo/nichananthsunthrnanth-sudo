@@ -9,7 +9,7 @@
 - 🔭 Currently working on **[Project Name]**
 - 🌱 Currently learning **[Technology/Language]**
 - 💬 Ask me about **JavaScript, Python, Web Dev**
-- 📫 How to reach me: **your.email@gmail.com**
+- 📫 How to reach me: **nichananthsunthrnanth@gmail.com**
 
 ---
 
